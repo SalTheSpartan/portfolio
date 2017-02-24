@@ -2,7 +2,11 @@
 
 Online CV for demo purposes
 
+
+
 ## Usage
+
+Open index.html file in browser.
 
 To compile the SCSS into CSS:
 
