@@ -1,0 +1,12 @@
+
+
+h1, h2 {
+  color: rgb(96,125,139);
+}
+
+#page-wrap{
+  padding-top: 500px;
+  width: 65%;
+  margin: 0 auto;
+  align-self: center;
+}
